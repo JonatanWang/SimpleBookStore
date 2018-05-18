@@ -1,0 +1,7 @@
+SET SQL_MODE='ALLOW_INVALID_DATES';
+
+DROP DATABASE IF EXISTS headbook;
+  
+CREATE DATABASE headbook;
+  
+USE headbook;
